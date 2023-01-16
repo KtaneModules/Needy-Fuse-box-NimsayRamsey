@@ -1,0 +1,14 @@
+Trigger:
+- Solving 2-3 modules while active
+
+Behavior:
+- When activating, the timer will sit at 88 (IDLE)
+- When triggered, a random module is disabled and the timer is set to [30*(1+(#ofModules / 6))] and will now start counting down
+- Navigate to the correct panel and reset the correct fuse to reset the needy back to its IDLE state
+
+Parts:
+- The box door can be opened and closed manually, as it could block the view of other modules
+ > While closed, you cannot interact with the fuses
+- The fuse panel inside holds up to 6 fuses, 3 per row
+ > Empty spots, boss modules, needies, and the timer will not have a fuse in their spot
+- The 2 arrows on either side will scroll the fuse panels. The display in the top left shows what page is displayed
