@@ -15,8 +15,9 @@ MonoBehaviour:
   title: Needy Fuse Box
   author: Nimsay Ramsey
   description: "Clearly whoever had this installed never checked the service sticker
-    \r\n\r\nHTML: Coming Soon\r\nPDF: Coming Soon\r\nModule ID: needyFuse\r\n\r\nManual
-    SVG: Red Penguin\r\nThe screw model was borrowed from The Screw"
+    \r\n\r\nHTML: https://ktane.timwi.de/HTML/Needy%20Fuse%20Box.html\nPDF: https://ktane.timwi.de/PDF/Needy%20Fuse%20Box.pdf\nModule
+    ID: needyFuse\r\n\r\nManual SVG: Red Penguin\r\nThe screw model was borrowed from
+    The Screw"
   version: 1
   outputFolder: build
   previewImage: {fileID: 2800000, guid: eaf1c76facc3fed4d8e81d41cc670a1e, type: 3}
